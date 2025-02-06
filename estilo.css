@@ -1,8 +1,7 @@
 body{
     background: #d2d2c1 url("imagens/fundo.png");
     font: 16px Arial, sans-serif;
-    display: flex;
-    justify-content: center;
+
 }
 
 #img-capa{
@@ -11,6 +10,7 @@ body{
 
 #principal{
     width: 900px;
+    margin: 10px auto;
 }
 
 #menu{
